@@ -94,7 +94,7 @@ def demo():
           <hr />
             <div class="container">
               <div style="margin-top:5%">
-		            <h1 style="color:black">Dogs Cats Classification Demo</h1>
+		            <h1 style="color:black">Violence Detection Demo</h1>
 		            <h4 style="color:black">Upload new Image </h4>
 		            <form method=post enctype=multipart/form-data>
 	                 <p><input type=file name=file>
